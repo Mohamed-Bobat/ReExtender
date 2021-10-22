@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "ReExtender": {
+      "commandName": "Project",
+      "commandLineArgs": "--path \"C:\\Users\\moham\\Downloads\\Maoyuu Maou Yuusha\" --regEx \"c03\"",
+      "remoteDebugEnabled": false
+    },
+    "regEx": {
+      "commandName": "Executable",
+      "commandLineArgs": "--path \"C:\\Users\\moham\\Downloads\\Maoyuu Maou Yuusha\" --regEx \"c03\""
+    },
+    "Filter": {
+      "commandName": "Executable",
+      "commandLineArgs": "--path \"C:\\Users\\moham\\Downloads\\Maoyuu Maou Yuusha\" --filter \"c04\""
+    }
+  }
+}
