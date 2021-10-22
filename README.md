@@ -12,3 +12,6 @@ available options are:
   --help          Display this help screen.
 
   --version       Display version information.
+  
+# Installation
+unzip the file and run the ReExtender.exe file from the command line of your choice.
